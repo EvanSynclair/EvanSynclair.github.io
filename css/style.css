@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Orbitron:700');
+body {
+	text-align:center;
+	background-image: url("../media/tweed.png");
+	font-family: 'Orbitron', sans-serif;
+	font-size: 20px;
+}
+a:visited{
+	color:black;
+}
+a:hover{
+	color:white;
+}
+li{
+	list-style:none;
+}
